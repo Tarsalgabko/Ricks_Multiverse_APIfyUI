@@ -1,6 +1,6 @@
 # 🚀 Rick's Multiverse
 
-![Logo](assets/view_page.png)
+[web-app view](view_page.png)
 
 ## 🚀 Stack
 
